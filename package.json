@@ -1,8 +1,10 @@
 {
     "name": "xotopio",
     "displayName": "xotopio-light",
+    "publisher": "xotopio",
+    "version": "0.11.0",
+
     "description": "light version of xotopio",
-    "version": "0.0.1",
     "icon": "icon.png",
     "category": "Theme",
     "repository": "https://github.com/xotopio/xotopio.light",
