@@ -1,14 +1,36 @@
-# README
-## This is the README for your extension "xotopio"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# xotopio for [Visual Studio Code](http://code.visualstudio.com)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+xotopio is a dark window theme for vs code, inspired by a white neon based design.</br>
+This theme will be optimised when ever I find something to improve. </br>
+If you have any problems or wishes to improve the theme, please message me to xotopio@gmail.com to make this your optimised theme as well!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
+Download it from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=xotopio.xotopio-light) or on [GitHub](https://github.com/xotopio/xotopio.light) via:
+
+```
+git clone https://github.com/xotopio/xotopio.light
+```
+
+#### HTML:
+<img src="" width="700" height="600">
+
+
+#### JAVA:
+<img src="" width="700" height="600">
+
+
+#### Javascript:
+<img src="" width="700" height="600">
+
+
+#### CSS:
+<img src="" width="300" height="580">
+
+
+##### Contact
+by [xotopio](https://github.com/xotopio)
+
+<!-- [license]() -->
 
 **Enjoy!**
-# xotopio.light
+   
