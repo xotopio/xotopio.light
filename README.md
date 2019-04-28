@@ -21,7 +21,7 @@ git clone https://github.com/xotopio/xotopio.light
 <img src="https://raw.githubusercontent.com/xotopio/xotopio.light/master/imgs/examples/js.png" width="700" height="600">
 
 #### CSS:
-<img src="https://raw.githubusercontent.com/xotopio/xotopio.light/master/imgs/examples/css.png" width="300" height="580">
+<img src="https://raw.githubusercontent.com/xotopio/xotopio.light/master/imgs/examples/css.png" width="700" height="380">
 
 ##### Contact
 by [xotopio](https://github.com/xotopio)
