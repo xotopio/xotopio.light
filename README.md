@@ -1,6 +1,6 @@
 # xotopio for [Visual Studio Code](http://code.visualstudio.com)
 
-xotopio is a dark window theme for vs code, inspired by a white neon based design.</br>
+xotopio is a light window theme for vs code, inspired by a white pastel based design.</br>
 This theme will be optimised when ever I find something to improve. </br>
 If you have any problems or wishes to improve the theme, please message me to xotopio@gmail.com to make this your optimised theme as well!
 
