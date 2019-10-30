@@ -160,6 +160,8 @@
 		"button.background": "#b8b7bac6"
 	},
 	"tokenColors": [
+		{ "name": "Python Source", "scope": "source.python", "settings": { "foreground": "#5b6185" } },
+		
 		{ "name": "Keyword Control", "scope": ["keyword.control"], "settings": { "foreground": "#ca52acd4" } },
 		{ "name": "Raw", "scope": ["source.zsc"], "settings": { "foreground": "#5b6185" } },
 		{ "name": "text", "scope": ["text"], "settings": { "foreground": "#5b6185" } },
@@ -266,7 +268,8 @@
 		{ "name": "Source Shell", "scope": ["source.shell"], "settings": { "foreground": "#5b6185" } },
 		{ "name": "String Double", "scope": ["string.quoted.double"], "settings": { "foreground": "#148693ee" } },
 		{ "name": "Meta Scope Group", "scope": ["variable.other.positional"], "settings": { "foreground": "#c99433b9" } },
-		{ "name": "Meta Scope Group", "scope": ["punctuation.definition.variable.shell"], "settings": { "foreground": "#c99433b9" } }
+		{ "name": "Meta Scope Group", "scope": ["punctuation.definition.variable.shell"], "settings": { "foreground": "#c99433b9" } },
+			
 		// { "name": "Raw Code", "scope": "raw", "settings": { "foreground": "#54d4ff" } },
 		// { "name": "Functions", "scope": ["entity.name.function"], "settings": { "foreground": "#346b9ecc", "fontStyle": ""}},
 		// { "name": "Functions", "scope": ["entity.name.function"], "settings": { "foreground": "#346b9ec7", "fontStyle": ""}},
